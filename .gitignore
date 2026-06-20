@@ -1,0 +1,22 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Variables de entorno (nunca subir)
+.env
+.env.local
+.env.production
+
+# Claude Code (configuración local del editor)
+.claude/
