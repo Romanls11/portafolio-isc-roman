@@ -392,3 +392,8 @@ window.addEventListener('load', () => {
     }, 200 + i * 100);
   });
 });
+
+/* ============================================================
+   FOOTER YEAR
+   ============================================================ */
+document.getElementById('footerYear').textContent = new Date().getFullYear();
